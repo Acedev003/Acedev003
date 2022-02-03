@@ -4,7 +4,7 @@ Defining myself as a curious mind that loves to code and make things work 🛠. 
  
 \
 \
-![LucasPilla's github stats](https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=blue-green)
+![Acedev003's github stats](https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=blue-green)
 
 \
 \
