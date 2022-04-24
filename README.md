@@ -4,7 +4,9 @@ Defining myself as a curious mind that loves to code and make things work 🛠. 
  
 \
 \
-![Acedev003's github stats](https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=blue-green)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radical">
+
 
 \
 \
