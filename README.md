@@ -12,8 +12,3 @@ Defining myself as a curious mind that loves to code and make things work 🛠. 
 	</a>
 </div>
 
-
-\
-\
-PS: Check out [github.com/Ashvin003](https://github.com/Ashvin003). Pushing all university projects into that🙂
-
