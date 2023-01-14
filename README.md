@@ -4,11 +4,11 @@ Defining myself as a curious mind that loves to code and make things work 🛠. 
  
 <br>
 <div align="center">
-	<a href="https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark" target="_blank">
-		<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark">
+	<a href="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radicalapi?username=Acedev003&show_icons=true&theme=vision-friendly-dark" target="_blank">
+		<img align="center" height="175" src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radicalapi?username=Acedev003&show_icons=true&theme=vision-friendly-dark">
 	</a>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radical" target="_blank">
-		<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radical">
+	<a href="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radicalapi/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radical" target="_blank">
+		<img align="center" height="175" src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radicalapi/top-langs/?username=Acedev003&layout=compact&langs_count=6&theme=radical">
 	</a>
 </div>
 
