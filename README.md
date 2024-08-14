@@ -1,7 +1,7 @@
 ## Hi all 👋 **Ashvin** here, 
 
-Defining myself as a curious mind that loves to code and make things work 🛠. Fascinated by things that fly (✈🚀), advances in machine learning (🧠🤖) and craving to do something useful in making this planet more green 🌏.    
- 
+Just another human with random interests. Loves planes and rockets, travel, and knows a teeny bit of AI. 
+
 <br>
 <div align="center">
 	<a href="https://acedev003-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark" target="_blank">
