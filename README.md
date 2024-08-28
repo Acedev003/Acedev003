@@ -2,7 +2,6 @@
 
 Just another human with random interests. Loves planes and rockets, travel, and knows a teeny bit of AI. 
 
-<br>
 <div align="center">
 	<a href="https://acedev003-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark" target="_blank">
 		<img align="center" height="175" src="https://acedev003-readme-stats.vercel.app/api?username=Acedev003&show_icons=true&theme=vision-friendly-dark">
